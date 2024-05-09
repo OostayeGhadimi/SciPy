@@ -3,9 +3,10 @@ SciPy is a scientific computation library that uses NumPy underneath.
 SciPy stands for Scientific Python.
 It provides more utility functions for optimization, stats and signal processing.
 Like NumPy, SciPy is open source so we can use it freely.
+\\
 SciPy (pronounced "Sigh Pie") is an open-source software for mathematics, science, and engineering. It includes modules for statistics, optimization, integration, linear algebra, Fourier transforms, signal and image processing, ODE solvers, and more.
 
-Website: https://scipy.org
+- Website: https://scipy.org
 Documentation: https://docs.scipy.org/doc/scipy/
 Development version of the documentation: https://scipy.github.io/devdocs
 SciPy development forum: https://discuss.scientific-python.org/c/contributor/scipy
